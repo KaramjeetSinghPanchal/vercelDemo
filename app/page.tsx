@@ -22,7 +22,7 @@ export default function Home() {
       `}</style>
 
       <div className="animate-fade-in-up text-center text-2xl font-bold text-zinc-800 dark:text-white">
-        Hii karam, let's start learning Vercel! 🐳
+        Hii karam and ravi, let's start learning Vercel! 🐳
       </div>
     </div>
   );
